@@ -1,5 +1,6 @@
 # Data-Cleaning-of-FIFA-Dataset
 Data was gotten from from Kaggle with the link: https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring
+
 Here is the link to a class on Google Meet where I was invited to share tutor fellow data analysts on data cleaning with Power Query: https://drive.google.com/file/d/1Qcuo4eFSsnKBp2YGUVO7QvYQQNHB39I4/view?usp=share_link
 
 Data cleaning was carried out using Power Query Editor in Microsoft Excel. This works with the use of M programming language which has been extracted and saved as 'M language Editor' in text format.
