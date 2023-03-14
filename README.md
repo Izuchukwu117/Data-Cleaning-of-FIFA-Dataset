@@ -3,7 +3,7 @@ Data was gotten from from Kaggle with the link: https://www.kaggle.com/datasets/
 
 Here is the link to a class on Google Meet where I was invited to share tutor fellow data analysts on data cleaning with Power Query: https://drive.google.com/file/d/1Qcuo4eFSsnKBp2YGUVO7QvYQQNHB39I4/view?usp=share_link
 
-Data cleaning was carried out using Power Query Editor in Microsoft Excel. This works with the use of M programming language which has been extracted and saved as 'M language Editor' in text format.
+Data cleaning was carried out as part of the data cleaning challenge using Power Query Editor in Microsoft Excel. This works with the use of M programming language which has been extracted and saved as 'M language Editor' in text format.
 
 What this means is that once the content of the M language editor is applied on other Excel or Power BI Query Editors and the raw FIFA file is connected to either Excel or Power BI, all the steps will be applied and the dirty dataset will be cleaned in no time.
 
